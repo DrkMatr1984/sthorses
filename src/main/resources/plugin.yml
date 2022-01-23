@@ -3,7 +3,7 @@ version: ${project.version}
 description: ${project.description}
 author: ${organization.name}
 website: ${organization.url}
-
+api-version: 1.13
 main: com.shepherdjerred.sthorses.Main
         
 permissions:
